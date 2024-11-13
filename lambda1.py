@@ -1,8 +1,8 @@
 import json
 
 def lambda_handler(event, context):
-    # TODO implement test2 final current
+    # TODO implement
     return {
         'statusCode': 200,
-        'body': json.dumps('Hello from Lambda test with test one git hub testtest111fu!!!!!!');
+        'body': json.dumps('Hello from Lambda jenkins!')
     }
